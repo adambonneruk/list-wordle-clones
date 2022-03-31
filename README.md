@@ -13,4 +13,4 @@ https://www.mathler.com/
 
 https://hard.mather.com/
 
-https://easy.mather.com/
+https://easy.mathler.com/
