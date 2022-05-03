@@ -27,6 +27,7 @@ A list of wordle clones I've played, some I like, others not so much
 | Game | Description |
 | ---- | ----------- |
 | [FRAMED](https://framed.wtf) | A game for cinephiles and casual movie watchers alike! Inspired by Wordle, Heardle and all the other spinoffs. Each day a new movie is picked from a curated list and the frames have been sourced from Shotdeck. |
+| [MOVIEDL](https://moviedl.app/) | The Daily Guess That Movie game! Watch a one second version of the entire movie (no pausing!) Guess the title, or hit skip if you dont know it. You get 6 tries in total per day. Have fun and good luck! |
 
 ## Music 🎵
 | Game | Description |
@@ -37,3 +38,4 @@ A list of wordle clones I've played, some I like, others not so much
 | Game | Description |
 | ---- | ----------- |
 | [SQUIRDLE](https://squirdle.fireblend.com/daily.html) | A Pokémon Wordle-like by Fireblend |
+| [LOGLE](https://logle.app) | Guess the name of the company whos logo is behind the tiles. The less tiles removed the more points you score! |
