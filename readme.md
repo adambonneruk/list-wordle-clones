@@ -28,6 +28,7 @@ A list of wordle clones I've played, some I like, others not so much
 | ---- | ----------- |
 | [FRAMED](https://framed.wtf) | A game for cinephiles and casual movie watchers alike! Inspired by Wordle, Heardle and all the other spinoffs. Each day a new movie is picked from a curated list and the frames have been sourced from Shotdeck. |
 | [MOVIEDL](https://moviedl.app/) | The Daily Guess That Movie game! Watch a one second version of the entire movie (no pausing!) Guess the title, or hit skip if you dont know it. You get 6 tries in total per day. Have fun and good luck! |
+| [POSTERDL](https://posterdle.com) | You have 20 seconds and 6 guesses to figure out the movie poster. Push START to begin, and watch the image get easier to see. Pressing GUESS pauses the timer. If you are wrong, or click I DON’T KNOW, the countdown resumes. Every day there will be a new poster to guess. Have fun and good luck! |
 
 ## Music 🎵
 | Game | Description |
